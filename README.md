@@ -7,4 +7,4 @@
 
 ## Preview
 
-![Project Image]()
+![Project Image](https://github.com/Chris-Z-85/Digital-Clock/blob/main/digitalclock.png)
